@@ -1,0 +1,3 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	label
+1	Spectrogram 1	1	0.185709572	1.033595697	863.4	8335.2	HOWA-song-B
+2	Spectrogram 1	1	10.214276660	11.396064843	1062.7	9032.5	HOWA-song-B

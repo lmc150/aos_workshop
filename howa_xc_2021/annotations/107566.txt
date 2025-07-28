@@ -1,0 +1,6 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	label
+1	Spectrogram 1	1	0.324174046	0.932000382	3686.1	16404.7	HOWA-chip
+2	Spectrogram 1	1	3.515262310	4.335827864	3752.5	16271.8	HOWA-chip
+5	Spectrogram 1	1	6.179567750	6.990002865	3818.9	16139.0	HOWA-chip
+6	Spectrogram 1	1	9.330134259	10.333047713	3553.2	16471.1	HOWA-chip
+7	Spectrogram 1	1	14.819842196	15.944320918	4018.1	17135.2	HOWA-chip
